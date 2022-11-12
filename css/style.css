@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    min-width: 372px;
+}
+
+/* Este comentário será ignorado pelo browser. */
+
+
+.wrapper {
+    min-height: 100vh;
+}
